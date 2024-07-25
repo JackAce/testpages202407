@@ -1,2 +1,2 @@
-# testpages202407
-Test GitHub Pages site with Actions
+# Jack Haze is my Homeboy
+Don't call it a comeback. I've been here for years.
